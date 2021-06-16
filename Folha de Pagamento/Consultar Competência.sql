@@ -1,9 +1,9 @@
-/********************************************************
-*   QUERYCONSULTAR COMPETENCIA                          *
-*   DESCRIÇÃOCONSULTAR A COMPETENCIA DE CADA COLIGADA   *
-*   CRIAÇÃO16/06/2021                                   *
-*   AUTORGUILHERME BRANDÃO                              *
-********************************************************/
+/************************************************************
+*   QUERY       : CONSULTAR COMPETENCIA                     *
+*   DESCRIÇÃO   : CONSULTAR A COMPETENCIA DE CADA COLIGADA  *
+*   CRIAÇÃO     : 16/06/2021                                *
+*   AUTOR       : GUILHERME BRANDÃO                         *
+************************************************************/
 
 SELECT
 EMPRESA = NOMEFANTASIA,
